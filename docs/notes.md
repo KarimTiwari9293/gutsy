@@ -8,3 +8,4 @@ Notes and usage details for gutsy.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
