@@ -47,3 +47,4 @@ Notes and usage details for gutsy.
 - fix a small wording issue
 - add a note about the defaults
 - link the usage section
+- link the usage section
